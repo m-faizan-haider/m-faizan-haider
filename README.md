@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br><br>Building end-to-end AI projects focused on Machine Learning, Deep Learning, NLP, Generative AI, and Agentic AI, including:<br><br>RAG systems with LangChain<br><br>Intelligent AI agents<br><br>Model deployment using FastAPI & Docker<br><br>Real-world problem-driven AI applications<br><br>👯 I’m looking to collaborate on<br><br>AI/ML/DL & NLP projects<br><br>Generative AI & LLM-based systems<br><br>Agentic AI workflows (RAG, tools, automation)<br><br>Research-oriented or production-grade AI solutions<br><br>🤝 I’m looking for help with<br><br>Advanced model optimization & scaling<br><br>MLOps best practices<br><br>Production deployment of LLM systems<br><br>Writing and understanding AI research papers<br><br>🌱 I’m currently learning<br><br>Advanced Deep Learning architectures<br><br>Transformers & Large Language Models<br><br>Agentic AI (tool use, planning, memory)<br><br>MLOps, monitoring, and AI system design<br><br>FastAPI + Docker for AI deployment<br><br>💬 Ask me about<br><br>Machine Learning vs Deep Learning vs NLP<br><br>Model selection & evaluation<br><br>OCR-based document classification<br><br>CNNs, Transformers, and practical AI pipelines<br><br>Building AI projects from idea → deployment<br><br>⚡ Fun fact<br><br>I transitioned from data operations to AI engineering, and now I enjoy turning complex AI concepts into real-world, deployable systems 🚀
 
-<!--
-**faizan-ai-ml/faizan-ai-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/faizan_ai_ml) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faizan.haider.770393) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_ai_ml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-ai-ml) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@faizan_ai_ml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanhaiderofficial1@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=faizan-ai-ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faizan-ai-ml&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ai-ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=faizan-ai-ml&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
