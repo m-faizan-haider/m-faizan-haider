@@ -4,7 +4,7 @@
 
 ### AI Engineer · Agentic Systems · RAG Pipelines · LLM Apps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-haider-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-faizan-haider/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanhaider.me-blue?logo=globe&logoColor=white)](http://faizanhaider.me)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanhaiderofficial1@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/faizandataanalyst)
