@@ -4,7 +4,7 @@
 
 ### AI Engineer · Agentic Systems · RAG Pipelines · LLM Apps · Lead Gen Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-haider-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-faizan-haider)
 [![Upwork](https://img.shields.io/badge/Upwork-Available%20for%20Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c0a32231e2ba7b5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanhaider.me-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](http://faizanhaider.me)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizandataanalyst)
